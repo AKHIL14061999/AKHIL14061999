@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **PYTHON,PANDAS,NUMPY,DATABASE,MYSQL,MOGODB**
+- 💬 Ask me about **PYTHON,PANDAS,NUMPY,DATABASE,MYSQL,MOGODB,MICROSOFT POWERBI,TABLEAU**
 
-- 📫 How to reach me **002akhileshkumar@gmail.com**
+- 📫 How to reach me **002akhileshkumar@gmail.com** ,**https://www.linkedin.com/in/akhilesh-kumar-a1900b220/**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
